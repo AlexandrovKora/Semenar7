@@ -1,0 +1,15 @@
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\Semenar7.csproj.AssemblyReference.cache
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\Semenar7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\Semenar7.AssemblyInfoInputs.cache
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\Semenar7.AssemblyInfo.cs
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\Semenar7.csproj.CoreCompileInputs.cache
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\bin\Debug\net6.0\Semenar7.exe
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\bin\Debug\net6.0\Semenar7.deps.json
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\bin\Debug\net6.0\Semenar7.runtimeconfig.json
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\bin\Debug\net6.0\Semenar7.dll
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\bin\Debug\net6.0\Semenar7.pdb
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\Semenar7.dll
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\refint\Semenar7.dll
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\Semenar7.pdb
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\Semenar7.genruntimeconfig.cache
+C:\Users\lp-fa\Desktop\Программирование\C#semenars\Semenar7\obj\Debug\net6.0\ref\Semenar7.dll
